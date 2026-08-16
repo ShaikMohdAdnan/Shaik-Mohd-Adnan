@@ -2,8 +2,7 @@
 
 Welcome to my **Business Analyst Portfolio**, showcasing end-to-end case studies across **business process transformation, data & analytics, requirements engineering, business intelligence, and technical business analysis**.
 
-This portfolio demonstrates my ability to translate **business problems into structured requirements, optimized processes, data-driven insights, and implementable solutions** using industry-standard Business Analysis practices and tools.
-
+This portfolio demonstrates my ability to translate **business problems into structured requirements, optimized processes, data-driven insights, and implementable solutions** "using structured Business Analysis practices, data analysis, and delivery frameworks
 ---
 
 ## 👤 About Me
@@ -143,3 +142,68 @@ The simulated dataset contained:
 🧪 UAT
         ↓
 📑 Final Case Study
+---
+
+# 🧩 Project Deliverables
+
+### 📋 Business Analysis
+`Project Overview` `Stakeholder Analysis` `AS-IS` `Root Cause Analysis` `TO-BE`
+
+### 📊 Data & Analytics
+`Excel` `SQL` `PostgreSQL` `Power BI` `KPI Analysis`
+
+### 📝 Requirements & Agile
+`BRD` `FRD` `User Stories` `Acceptance Criteria` `RTM` `UAT`
+
+### ⚙️ Technical BA
+`System Architecture` `Data Flow` `ERD` `API Specification`
+
+### 🎨 UX
+`High-Fidelity Prototype` `Client Portal` `Reviewer Worklist`
+
+---
+
+# 🛠️ Tools & Technologies
+
+**Data & BI:** SQL · PostgreSQL · Excel · Power BI
+
+**Business Analysis:** Requirements Engineering · Process Mapping · Root Cause Analysis · Stakeholder Analysis
+
+**Delivery:** Agile · User Stories · Acceptance Criteria · UAT
+
+**Technical:** System Architecture · Data Flow · ERD · API Requirements
+
+**UX:** Figma · High-Fidelity Prototyping
+
+---
+
+# 🎯 My BA Approach
+
+> **Understand → Analyse → Design → Define → Validate**
+
+I focus on creating a traceable connection between the **business problem, evidence, requirements, solution, and validation**.
+
+---
+
+# 📚 Portfolio Roadmap
+
+I'm building additional end-to-end case studies focused on:
+
+- 🔄 Business Process Transformation
+- 📊 Data & Operational Analytics
+- 📝 Requirements Engineering
+- ⚙️ Technical Business Analysis
+- 💡 Digital Transformation
+- 🧪 UAT & Solution Validation
+
+The goal is **depth over quantity** — demonstrating how Business Analysis connects strategy, processes, data, people, and technology.
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** shaikmdadnana@gmail.com
+
+💼 **LinkedIn:** (https://www.linkedin.com/in/shaik-mohd-adnan-5a66693b0 )
+
+🐙 **GitHub:** [ShaikMohdAdnan](https://github.com/ShaikMohdAdnan)
