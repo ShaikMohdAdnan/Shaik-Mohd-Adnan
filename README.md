@@ -2,7 +2,7 @@
 
 Welcome to my **Business Analyst Portfolio**, showcasing end-to-end case studies across **business process transformation, data & analytics, requirements engineering, business intelligence, and technical business analysis**.
 
-This portfolio demonstrates my ability to translate **business problems into structured requirements, optimized processes, data-driven insights, and implementable solutions** "using structured Business Analysis practices, data analysis, and delivery frameworks
+This portfolio demonstrates my ability to translate **business problems into structured requirements, optimized processes, data-driven insights, and implementable solutions** using structured Business Analysis practices, data analysis, and delivery frameworks.
 ---
 
 ## 👤 About Me
