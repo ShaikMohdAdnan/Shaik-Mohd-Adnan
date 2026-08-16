@@ -1,5 +1,29 @@
-📊 Business Analyst Portfolio – Shaik-Mohd-Adnan
-Business Analyst portfolio — data, process improvement, requirements, analytics and technical BA.
+# 📊 Business Analyst Portfolio – Shaik Mohd Adnan
+
+Welcome to my **Business Analyst Portfolio**, showcasing end-to-end case studies across **business process transformation, data & analytics, requirements engineering, business intelligence, and technical business analysis**.
+
+This portfolio demonstrates my ability to translate **business problems into structured requirements, optimized processes, data-driven insights, and implementable solutions** using industry-standard Business Analysis practices and tools.
+
+---
+
+## 👤 About Me
+
+I am a **Business Analyst** focused on connecting **business needs, processes, data, people, and technology** to support better decisions and practical solutions.
+
+My work covers:
+
+- 🔎 **Business problem analysis & stakeholder management**
+- 📝 **Requirements elicitation & documentation**
+- 🔄 **AS-IS / TO-BE process modelling & improvement**
+- 📊 **Data analysis using SQL, Excel & Power BI**
+- 🎯 **KPI, SLA & operational performance analysis**
+- 🏃 **Agile / Scrum delivery support**
+- ⚙️ **Technical Business Analysis & solution design**
+- 🧪 **UAT planning, testing & validation**
+
+My approach focuses on **structured thinking, evidence-based analysis, traceability, and measurable business outcomes**.
+
+---
 # 🧠 What I Bring
 
 ### 🔎 Business Analysis
