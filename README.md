@@ -3,6 +3,7 @@
 Welcome to my **Business Analyst Portfolio**, showcasing end-to-end case studies across **business process transformation, data & analytics, requirements engineering, business intelligence, and technical business analysis**.
 
 This portfolio demonstrates my ability to translate **business problems into structured requirements, optimized processes, data-driven insights, and implementable solutions** using structured Business Analysis practices, data analysis, and delivery frameworks.
+
 ---
 
 ## 👤 About Me
@@ -23,9 +24,11 @@ My work covers:
 My approach focuses on **structured thinking, evidence-based analysis, traceability, and measurable business outcomes**.
 
 ---
-# 🧠 What I Bring
+
+## 🧠 What I Bring
 
 ### 🔎 Business Analysis
+
 - Business Problem Definition
 - Stakeholder Analysis
 - Business Requirements
@@ -34,6 +37,7 @@ My approach focuses on **structured thinking, evidence-based analysis, traceabil
 - Requirements Traceability
 
 ### 🔄 Process Improvement
+
 - AS-IS / TO-BE Process Mapping
 - Bottleneck Identification
 - Root Cause Analysis
@@ -42,6 +46,7 @@ My approach focuses on **structured thinking, evidence-based analysis, traceabil
 - KPI & SLA Definition
 
 ### 📊 Data & Analytics
+
 - SQL / PostgreSQL
 - Microsoft Excel
 - Power BI
@@ -50,6 +55,7 @@ My approach focuses on **structured thinking, evidence-based analysis, traceabil
 - Data-Driven Recommendations
 
 ### 📝 Agile & Delivery
+
 - User Stories
 - Acceptance Criteria
 - Backlog Management
@@ -58,6 +64,7 @@ My approach focuses on **structured thinking, evidence-based analysis, traceabil
 - UAT Planning & Execution
 
 ### ⚙️ Technical Business Analysis
+
 - System Architecture
 - Data Flow
 - ERD
@@ -66,6 +73,7 @@ My approach focuses on **structured thinking, evidence-based analysis, traceabil
 - Technical Requirements
 
 ### 🎨 UX & Collaboration
+
 - Figma
 - High-Fidelity Prototyping
 - User Journeys
@@ -74,11 +82,11 @@ My approach focuses on **structured thinking, evidence-based analysis, traceabil
 
 ---
 
-# 🚀 Featured Case Study
+## 🚀 Featured Case Study
 
-## 📁 Audit Evidence Workflow Transformation
+### 📁 Audit Evidence Workflow Transformation
 
-### **End-to-End Business Analysis Case Study**
+**End-to-End Business Analysis Case Study**
 
 A simulated transformation of an audit evidence collection workflow, covering the complete lifecycle from **problem discovery to UAT**.
 
@@ -98,7 +106,7 @@ The objective was to design a more **structured, measurable and traceable eviden
 
 ---
 
-## 📈 Data-Driven Diagnosis
+### 📈 Data-Driven Diagnosis
 
 The simulated dataset contained:
 
@@ -114,7 +122,7 @@ The simulated dataset contained:
 
 ---
 
-## 🔗 End-to-End BA Lifecycle
+### 🔗 End-to-End BA Lifecycle
 
 ```text
 💡 Business Problem
@@ -142,50 +150,69 @@ The simulated dataset contained:
 🧪 UAT
         ↓
 📑 Final Case Study
+```
+
 ---
 
-# 🧩 Project Deliverables
+## 🧩 Project Deliverables
 
 ### 📋 Business Analysis
+
 `Project Overview` `Stakeholder Analysis` `AS-IS` `Root Cause Analysis` `TO-BE`
 
 ### 📊 Data & Analytics
+
 `Excel` `SQL` `PostgreSQL` `Power BI` `KPI Analysis`
 
 ### 📝 Requirements & Agile
+
 `BRD` `FRD` `User Stories` `Acceptance Criteria` `RTM` `UAT`
 
 ### ⚙️ Technical BA
+
 `System Architecture` `Data Flow` `ERD` `API Specification`
 
 ### 🎨 UX
+
 `High-Fidelity Prototype` `Client Portal` `Reviewer Worklist`
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-**Data & BI:** SQL · PostgreSQL · Excel · Power BI
+**Data & BI**
 
-**Business Analysis:** Requirements Engineering · Process Mapping · Root Cause Analysis · Stakeholder Analysis
+`SQL` · `PostgreSQL` · `Excel` · `Power BI`
 
-**Delivery:** Agile · User Stories · Acceptance Criteria · UAT
+**Business Analysis**
 
-**Technical:** System Architecture · Data Flow · ERD · API Requirements
+`Requirements Engineering` · `Process Mapping` · `Root Cause Analysis` · `Stakeholder Analysis`
 
-**UX:** Figma · High-Fidelity Prototyping
+**Delivery**
+
+`Agile` · `User Stories` · `Acceptance Criteria` · `UAT`
+
+**Technical**
+
+`System Architecture` · `Data Flow` · `ERD` · `API Requirements`
+
+**UX**
+
+`Figma` · `High-Fidelity Prototyping`
 
 ---
 
-# 🎯 My BA Approach
+## 🎯 My BA Approach
 
 > **Understand → Analyse → Design → Define → Validate**
 
 I focus on creating a traceable connection between the **business problem, evidence, requirements, solution, and validation**.
 
+The goal is not simply to document requirements, but to understand **why the problem exists, what evidence supports the diagnosis, how the future state should work, and how the solution can be validated**.
+
 ---
 
-# 📚 Portfolio Roadmap
+## 📚 Portfolio Roadmap
 
 I'm building additional end-to-end case studies focused on:
 
@@ -196,14 +223,34 @@ I'm building additional end-to-end case studies focused on:
 - 💡 Digital Transformation
 - 🧪 UAT & Solution Validation
 
-The goal is **depth over quantity** — demonstrating how Business Analysis connects strategy, processes, data, people, and technology.
+The goal is **depth over quantity** — demonstrating how Business Analysis connects **strategy, processes, data, people, and technology**.
 
 ---
 
-# 📫 Connect With Me
+## 🏆 What I Aim to Demonstrate
+
+**Structured thinking.**
+
+**Evidence-based analysis.**
+
+**Strong requirements.**
+
+**Process improvement.**
+
+**Business-to-technology translation.**
+
+**End-to-end delivery thinking.**
+
+---
+
+## 📫 Connect With Me
 
 📧 **Email:** shaikmdadnana@gmail.com
 
-💼 **LinkedIn:** (https://www.linkedin.com/in/shaik-mohd-adnan-5a66693b0 )
+💼 **LinkedIn:** [Shaik Mohd Adnan](https://www.linkedin.com/in/shaik-mohd-adnan-5a66693b0/)
 
 🐙 **GitHub:** [ShaikMohdAdnan](https://github.com/ShaikMohdAdnan)
+
+---
+
+<sub>Business Analysis · Data & Process Analytics · Requirements · Agile · Technical BA</sub>
