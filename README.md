@@ -252,5 +252,21 @@ The goal is **depth over quantity** — demonstrating how Business Analysis conn
 🐙 **GitHub:** [ShaikMohdAdnan](https://github.com/ShaikMohdAdnan)
 
 ---
+---
 
+## 🚀 Featured Project
+
+### 📁 Audit Evidence Workflow Transformation
+
+**End-to-end Business Analysis case study** covering:
+
+`Business Analysis` · `Data Analytics` · `SQL` · `Power BI` · `UX` · `Requirements` · `Technical BA` · `UAT`
+
+A simulated audit evidence workflow transformation demonstrating how I connect:
+
+**Business Problem → Data → Process Improvement → Requirements → Solution Design → UAT**
+
+🔗 **[View the full project →](https://github.com/ShaikMohdAdnan/Audit-Evidence-Workflow-Transformation)**
+
+---
 <sub>Business Analysis · Data & Process Analytics · Requirements · Agile · Technical BA</sub>
